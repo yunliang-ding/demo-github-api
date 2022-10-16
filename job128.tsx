@@ -1,3 +1,5 @@
 export default () => {
-  return 12
+  return <div>
+    jjksiiuwieu
+  </div>
 }
