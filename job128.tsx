@@ -1,3 +1,3 @@
 export default () => {
-  return 'just test'
+  return 'just test hello'
 }
