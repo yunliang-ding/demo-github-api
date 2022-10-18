@@ -1,4 +1,4 @@
-/** 定时器23323 */
+/** 定时器23 */
 
 const useCountDownTimer = (value) => {
   const [number, setNumner] = React.useState(value);
